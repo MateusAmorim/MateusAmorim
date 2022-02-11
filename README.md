@@ -7,3 +7,6 @@
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusAmorim&count_private=true&theme=merko)](https://github.com/MateusAmorim/github-readme-stats)
+
