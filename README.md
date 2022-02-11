@@ -1,4 +1,4 @@
-### Olá! eu sou o Mateus Amorim!
+### Olá! Eu sou o Mateus Amorim!
 
 
 - 📊 Estou estudando Ciência de Dados.
