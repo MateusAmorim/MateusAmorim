@@ -27,7 +27,7 @@
   <a href = "mailto:mateusamorimailfima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-amorim-388a12203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://https://github.com/MateusAmorim/MateusAmorim/commit/f39afbbe37ed50a2d493acc8e2a0d02fecac0ed5)
+  ![Snake animation](![Snake animation](https://github.com/MateusAmorim/MateusAmorim/blob/output/github-contribution-grid-snake.svg))
  
 </div>
 
