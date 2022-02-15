@@ -2,7 +2,7 @@
 
 
 - 📊 Estou estudando Ciência de Dados.
-- 🤔 Procuro ajuda em: Database, R language, Pyton, Sql...
+- 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, MongoDb...
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
