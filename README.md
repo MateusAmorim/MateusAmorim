@@ -2,7 +2,7 @@
 
 
 - 📊 Estou estudando Ciência de Dados, Data Scientist.
-- 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, SqlServer, WEKA.
+- 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, SqlServer, WEKA, Java...
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
