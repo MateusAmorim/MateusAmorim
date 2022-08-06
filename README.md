@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Amorim!
 
 
-- 📊 Estou estudando Ciência de Dados, Data Scientist.
+- 📊 Data Scientist, Analyst.
 - 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, SqlServer, WEKA, Java, Scala, Spark...
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
