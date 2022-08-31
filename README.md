@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo(a), sou o Mateus Amorim!
+## Olá! Seja bem vindo(a), sou o Mateus Amorim.
 
 
 - 📊 Data Scientist, Analyst.
