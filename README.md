@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo(a), sou o Mateus Amorim.
 
 
-- 📊 Data Scientist, Analyst.
+- 📊 Data Scientist.
 - 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, SqlServer, WEKA, Java, Scala, Spark, MongoDB, Hadoop...
 - 😄 Contribuições: Machine Learning, Neural Networks...
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
