@@ -3,7 +3,6 @@
 
 - 📊 Data Scientist.
 - 🤔 Procuro ajuda em: Linguagem R, Pyton, MySql, SqlServer, WEKA, Java, Scala, Spark, MongoDB, Hadoop...
-- 😄 Contribuições: Machine Learning, Neural Networks...
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
