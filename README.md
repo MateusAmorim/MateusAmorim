@@ -2,7 +2,7 @@
 
 
 - 📊 Data Scientist.
-- 🤔 Procuro ajuda em: Linguagem R, Pyton, SQL, Apache Spark.
+- 🤔 Principais Habilidades: Linguagem R, Pyton, SQL, Qlik, Apache Spark.
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
