@@ -2,7 +2,7 @@
 
 
 - 📊 Data Scientist.
-- 🤔 Principais Habilidades: Pyton, SQL, R.
+- 🤔 Principais Habilidades: Pyton, SQL, Power BI, Excel.
 - 📫 Como entrar em contato: Email: mateusamorimailfima@gmailcom.
 - 😄 Pronomes: ele/dele.
 - 🌎 Naturalidade: Brasileiro; Paraibano.
