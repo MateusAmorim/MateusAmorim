@@ -34,7 +34,7 @@
   
   ##
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MateusAmorim&bg_color=0a027e&color=44f005&line=06897a&point=929bdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MateusAmorim&bg_color=121111&color=44f005&line=06897a&point=929bdd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div> 
   <a href="https://www.youtube.com/channel/UCxkyufDE4yZxrDcfn-yNbDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
