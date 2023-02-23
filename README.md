@@ -1,6 +1,6 @@
-### Olá! Seja bem vindo(a), sou o Mateus Amorim.
+### Seja bem vindo(a), sou o Mateus Amorim.
 
-## Data Scientist.
+## Data Science | Machine Learning.
 
   ##
 
