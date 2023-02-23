@@ -40,6 +40,8 @@
   
   ![Snake animation](https://github.com/MateusAmorim/MateusAmorim1/blob/output/github-contribution-grid-snake.svg)
   
+  ##
+  
   <a href="https://www.youtube.com/channel/UCxkyufDE4yZxrDcfn-yNbDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mateus.a.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
