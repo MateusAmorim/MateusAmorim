@@ -1,6 +1,6 @@
 ### Seja bem vindo(a), sou o Mateus Amorim.
 
-## Data Science | Machine Learning.
+## Data Science 
 
   ##
 
