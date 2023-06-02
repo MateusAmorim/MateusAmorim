@@ -1,6 +1,6 @@
-### Seja bem vindo(a), sou o Mateus Amorim.
+### Hello, I'm Mateus Amorim.
 
-## Data Science 
+## Data Scientist 
 
   ##
 
