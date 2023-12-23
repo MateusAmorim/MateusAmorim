@@ -8,7 +8,7 @@ Data Specialist
 
 * 🌍  I'm based in Paraíba, Brasil.
 * ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
-* 🧠  I'm learning NumPy, Plotly, Streamlit, BeautifulSoup...
+* 🧠  I'm learning NumPy, Plotly, Streamlit, BeautifulSoup, Web Scraping...
 * 🤝  I'm open to collaborating on database creation, database management, and data analysis.
 * ⚡  Focused on solving problems!
 
