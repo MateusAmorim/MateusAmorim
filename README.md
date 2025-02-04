@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateus Amorim
 =====================================================================================================================================
 
-Graduated Data Science / Graduating Software Engineering.
+🚀 Developer & Data Scientist | Building Scalable, Data-Driven Solutions | 📊 Data Science Training | 🎓 Studying Software Engineering
 --------------
 
 Data Specialist
 
 * 🌍  I'm based in Paraíba, Brasil.
-* ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
-* 🤝  I'm open to collaborating on database creation, database management, and data analysis.
+* ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimtec@gmail.com)
 * ⚡  Focused on solving problems!
 
 ### Skills
