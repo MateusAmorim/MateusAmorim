@@ -7,7 +7,7 @@ Data Engineer in Training
 Data Specialist
 
 * 🌍  I'm based in Paraíba, Brasil.
-* ✉️  You can contact me at [mateusamorimtec@gmail.com](mailto:mateusamorimtec@gmail.com)
+* ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
 * ⚡  Focused on solving problems!
 
 ### Skills
