@@ -46,9 +46,3 @@
 ##
   
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
-
-##
-
-
-
-
