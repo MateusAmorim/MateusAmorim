@@ -22,9 +22,9 @@ Data Specialist
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MateusAmorim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusAmorim&stroke=f97316&background=181824&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
-
 <img src="https://streak-stats.demolab.com?user=MateusAmorim&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
   ##
   
