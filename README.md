@@ -40,6 +40,10 @@
 
 [![GitHub Streak](https://gitstrength.netlify.app/api/card?username=MateusAmorim)](https://github.com/MateusAmorim)
 
+<p align="center">
+  <img src="https://coolreadme.xyz/api/fox-card?user=MateusAmorim"/>
+</p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:000000&height=120&section=footer" style="width: 100vw; height: auto; display: block; margin: 0;" alt="Onda decorativa"/>
