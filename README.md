@@ -23,7 +23,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:000000&height=120&section=footer"/>
 
