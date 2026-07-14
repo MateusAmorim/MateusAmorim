@@ -21,6 +21,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:22c55e&height=250&section=header&text=Mateus%20Amorim&fontSize=50&fontColor=ffffff"/>
+
 ##
   
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
