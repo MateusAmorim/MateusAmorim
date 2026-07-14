@@ -32,6 +32,6 @@ Data Specialist
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MateusAmorim"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Mateus+Amorim;Software+Developer;ASP.NET+Core+Developer;Full+Stack+Developer;Always+Learning"/>
 
 
