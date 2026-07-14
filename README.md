@@ -7,6 +7,15 @@
 #
 #
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 * 🌍  I'm based in Paraíba, Brasil.
 * ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
@@ -40,17 +49,10 @@
 
 [![GitHub Streak](https://gitstrength.netlify.app/api/card?username=MateusAmorim)](https://github.com/MateusAmorim)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO" alt="GitHub Streak" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:000000&height=120&section=footer" style="width: 100vw; height: auto; display: block; margin: 0;" alt="Onda decorativa"/>
 
-
 ##
   
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
-
-
