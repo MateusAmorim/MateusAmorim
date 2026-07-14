@@ -47,5 +47,4 @@
   
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
 
-
-[![Fox Streak](https://coolreadme.xyz/api/fox-card?user=MateusAmorim)](https://coolreadme.xyz)
+[![GitHub Streak](https://gitstrength.netlify.app/api/card?username=MateusAmorim)](https://github.com/MateusAmorim)
