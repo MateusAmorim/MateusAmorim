@@ -7,16 +7,6 @@
 #
 #
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-
 * 🌍  I'm based in Paraíba, Brasil.
 * ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
 * ⚡  Focused on solving problems!
