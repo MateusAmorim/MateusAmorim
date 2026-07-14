@@ -28,6 +28,6 @@ Data Specialist
 
 ##
   
-![Snake animation](https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-contribution-grid-snake-dark.svg)
+<img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
 
 
