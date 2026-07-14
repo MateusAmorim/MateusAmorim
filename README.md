@@ -32,6 +32,6 @@ Data Specialist
 
 ##
 
-<img src="https://spotify-github-profile.vercel.app/api/view?..."/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MateusAmorim"/>
 
 
