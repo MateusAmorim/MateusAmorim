@@ -24,7 +24,6 @@ Data Specialist
 
 <a href="http://www.github.com/MateusAmorim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusAmorim&stroke=f97316&background=181824&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/MateusAmorim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAmorim&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
   ##
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=github)](https://github.com/MateusAmorim/github-readme-activity-graph)
