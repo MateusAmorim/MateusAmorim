@@ -48,4 +48,4 @@
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Fox Streak](https://coolreadme.xyz/api/fox-card?user=MateusAmorim)](https://coolreadme.xyz)
