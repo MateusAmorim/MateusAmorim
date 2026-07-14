@@ -43,6 +43,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:000000&height=120&section=footer" style="width: 100vw; height: auto; display: block; margin: 0;" alt="Onda decorativa"/>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake.svg" alt="Snake Animation">
+  </picture>
+</p>
+
 ##
   
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
