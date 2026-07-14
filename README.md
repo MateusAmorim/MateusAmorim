@@ -48,4 +48,4 @@
 <img src="https://komarev.com/ghpvc/?username=MateusAmorim&color=blueviolet&style=for-the-badge"/>
 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusAmorim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
