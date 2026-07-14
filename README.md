@@ -28,6 +28,6 @@ Data Specialist
 
 ##
   
-<img src="https://github-profile-trophy.vercel.app/?username=MateusAmorim&theme=tokyonight&no-frame=true&column=4"/> 
+![Snake animation](https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-contribution-grid-snake-dark.svg)
 
 
