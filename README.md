@@ -1,10 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateus Amorim
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Mateus+Amorim;Software+Developer;Web+Developer;Full+Stack+Developer;Database;Data+Science"/>
 =====================================================================================================================================
-
-Software and Web Developer
---------------
-
-Data Specialist
 
 * 🌍  I'm based in Paraíba, Brasil.
 * ✉️  You can contact me at [mateusamorimailfima@gmail.com](mailto:mateusamorimailfima@gmail.com)
@@ -32,6 +27,6 @@ Data Specialist
 
 ##
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Mateus+Amorim;Software+Developer;ASP.NET+Core+Developer;Full+Stack+Developer;Always+Learning"/>
+
 
 
