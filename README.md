@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:22c55e&height=250&section=header&text=Mateus%20Amorim&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:22c55e&height=250&section=header&text=Mateus%20Amorim&fontSize=50&fontColor=ffffff" style="width: 100vw; height: auto; display: block; margin: 0;" alt="Onda decorativa"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Full+Stack+Developer;Database;Data+Science"/>
 =====================================================================================================================================
