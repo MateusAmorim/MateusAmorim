@@ -41,7 +41,7 @@
 [![GitHub Streak](https://gitstrength.netlify.app/api/card?username=MateusAmorim)](https://github.com/MateusAmorim)
 
 <p align="center">
-  <img src="https://coolreadme.xyz/api/fox-card?user=MateusAmorim"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO" alt="GitHub Streak" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
