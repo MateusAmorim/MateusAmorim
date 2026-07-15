@@ -41,7 +41,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAmorim&theme=tokyo-night&hide_border=true"/>
 
-![Snake](https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/green.svg)
+![Snake](https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/cyberpunk.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:000000&height=120&section=footer" style="width: 100vw; height: auto; display: block; margin: 0;" alt="Onda decorativa"/>
 
