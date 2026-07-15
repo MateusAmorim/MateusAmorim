@@ -24,7 +24,20 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#FF6B6B&color_dots=#1a3a4a,#2a5a7a,#3a7aaa,#4a9aca,#5abaea
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+              dist/github-contribution-grid-snake-light.svg?palette=github-light            
+              dist/ocean.svg?color_snake=#00E5FF&color_dots=#0F172A,#1E3A8A,#2563EB,#38BDF8,#7DD3FC
+              dist/green.svg?color_snake=#22C55E&color_dots=#052E16,#14532D,#166534,#16A34A,#4ADE80            
+              dist/purple.svg?color_snake=#A855F7&color_dots=#2E1065,#581C87,#7E22CE,#A855F7,#D8B4FE            
+              dist/orange.svg?color_snake=#F97316&color_dots=#431407,#7C2D12,#C2410C,#EA580C,#FDBA74            
+              dist/red.svg?color_snake=#EF4444&color_dots=#450A0A,#7F1D1D,#B91C1C,#EF4444,#FCA5A5
+              dist/gold.svg?color_snake=#FFD700&color_dots=#1A1A1A,#3B2F00,#8B6B00,#C9A227,#FFD700            
+              dist/neon.svg?color_snake=#39FF14&color_dots=#000000,#0F0F0F,#1F1F1F,#2FFF2F,#39FF14            
+              dist/cyberpunk.svg?color_snake=#FF00FF&color_dots=#0D1117,#2D1B69,#6A00FF,#FF00FF,#00FFFF            
+              dist/matrix.svg?color_snake=#00FF41&color_dots=#001100,#003300,#005500,#00AA00,#00FF41            
+              dist/fire.svg?color_snake=#FF4500&color_dots=#2B0000,#661100,#AA2200,#FF4500,#FFD580
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
