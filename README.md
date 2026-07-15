@@ -43,9 +43,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/github-snake.svg" alt="Snake Animation">
+    ![Snake](https://raw.githubusercontent.com/MateusAmorim/MateusAmorim/output/green.svg)
   </picture>
 </p>
 
